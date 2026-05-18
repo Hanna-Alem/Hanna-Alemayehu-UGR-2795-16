@@ -46,17 +46,30 @@ Automatically splits and packs distinct ingredient text pools from step-by-step 
 ## screenshots of the runnung flutter
 
 the search bar
-<img width="675" height="630" alt="search bar" src="https://github.com/user-attachments/assets/3d141194-88eb-46a8-95bf-a78c72239a7d" />
+
+<img width="375" height="330" alt="search bar" src="https://github.com/user-attachments/assets/3d141194-88eb-46a8-95bf-a78c72239a7d" />
+
 the recipe details screen
-<img width="678" height="637" alt="recipe details screen" src="https://github.com/user-attachments/assets/b26c8e33-7202-47a4-8f86-61f767d9469f" />
+
+<img width="375" height="330" alt="recipe details screen" src="https://github.com/user-attachments/assets/b26c8e33-7202-47a4-8f86-61f767d9469f" />
+
 light mode
-<img width="681" height="634" alt="light mode home screen" src="https://github.com/user-attachments/assets/35489a12-f077-448b-97ee-888cf0adab85" />
+
+<img width="375" height="330" alt="light mode home screen" src="https://github.com/user-attachments/assets/35489a12-f077-448b-97ee-888cf0adab85" />
+
 the edit details screen
-<img width="663" height="579" alt="edit screen" src="https://github.com/user-attachments/assets/73912e50-6d67-495a-8840-1579f99bc5b4" />
+
+<img width="375" height="330" alt="edit screen" src="https://github.com/user-attachments/assets/73912e50-6d67-495a-8840-1579f99bc5b4" />
+
 catagory filter
-<img width="680" height="632" alt="desserts" src="https://github.com/user-attachments/assets/ac7a1981-3235-4c9e-a4d4-716f9d9b622f" />
+
+<img width="375" height="330" alt="desserts" src="https://github.com/user-attachments/assets/ac7a1981-3235-4c9e-a4d4-716f9d9b622f" />
+
 dark mode
-<img width="679" height="626" alt="dark mode" src="https://github.com/user-attachments/assets/846c543d-8101-49b5-b542-5274fbc6042d" />
+
+<img width="375" height="330" alt="dark mode" src="https://github.com/user-attachments/assets/846c543d-8101-49b5-b542-5274fbc6042d" />
+
 add new recipe page
-<img width="539" height="597" alt="add new recipe screen" src="https://github.com/user-attachments/assets/1c091dfc-9f62-49de-8e2c-1e7890fae715" />
+
+<img width="375" height="330" alt="add new recipe screen" src="https://github.com/user-attachments/assets/1c091dfc-9f62-49de-8e2c-1e7890fae715" />
 
